@@ -63,7 +63,7 @@ async function startBot() {
     a0_0x19bbf7.info("Application Started");
     console.log("Soniclabs Arcade Testnet BOT");
     console.log();
-    console.log("Join Channel : https://t.me/AirdropInsiderID");
+    console.log("Muning Cyber");
     console.log("Dont forget to run git pull to keep up to date");
     console.log();
     console.log();
