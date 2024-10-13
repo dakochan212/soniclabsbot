@@ -8,8 +8,8 @@ import { SONICLABS } from './dapps/soniclabs.js';
 import { Config } from '../../config/config.js';
 export default class Core extends API {
   constructor(_0x3f7129, _0x529392) {
-    super("https://airdrop.soniclabs.com", _0x529392, 'airdrop.soniclabs.com', "https://airdrop.soniclabs.com/", 'qos4k8');
-    this.maincode = 'qos4k8';
+    super("https://airdrop.soniclabs.com", _0x529392, 'airdrop.soniclabs.com', "https://airdrop.soniclabs.com/", '9eu8kk');
+    this.maincode = '9eu8kk';
     this.acc = _0x3f7129;
     this.sessionId = 0x1;
     this.limit = false;
