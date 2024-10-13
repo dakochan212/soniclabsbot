@@ -21,7 +21,7 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vinskasenda/soniclabsbot.git"
+    "url": "git+https://github.com/dakochan212/soniclabsbot.git"
   },
   "dependencies": {
     "bip39": "^3.1.0",
